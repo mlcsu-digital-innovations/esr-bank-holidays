@@ -61,7 +61,7 @@ You will be prompted to enter your ESR password securely. The script assumes you
 
 ## Disclaimer
 
-This script is not officially affiliated with NHS or ESR. Use it at your own risk, and ensure you verify entries if using in non-test mode.
+This script is not officially affiliated with ESR. Use it at your own risk, and ensure you verify entries if using in non-test mode.
 
 ---
 
